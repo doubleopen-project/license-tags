@@ -1,3 +1,9 @@
+
+<!--
+SPDX-FileCopyrightText: 2021 Double Open Project <doubleopen.org>
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # license-tags
 This repository complements data available from Scancode-repository at: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses.
 
